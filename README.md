@@ -8,7 +8,7 @@ Tool này giúp anh chị em lọc ra những giờ học của riêng mình tro
 ## Cài đặt các thư viện
 
 ```
-pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
+pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib oauth2client
 ```
 
 ## Bật Google API
