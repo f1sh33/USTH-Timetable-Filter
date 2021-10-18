@@ -44,3 +44,5 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 5.  Một cửa sổ đăng nhập sẽ hiện ra, và hãy chọn tài khoản gmail mà bạn đăng ký vừa lúc nãy.
 6.  Bấm "Tiếp tục", rồi bấm "Tiếp tục" tiếp.
 7.  Xong rồi, check trong Google Calendar là bạn đã có một thời khóa biểu riêng!
+
+Mọi thắc mắc xin liên hệ vào email clumsywasabi@gmail.com.
