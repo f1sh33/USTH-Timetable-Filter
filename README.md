@@ -37,7 +37,7 @@ pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-
 
 ## Chạy code
 
-1.  Chỉnh biến **CALENDER_NUM** ở dòng 29 thành **L1** hoặc **L2** tùy theo lịch bạn học
+1.  Chỉnh biến **CALENDER_NUM** ở dòng 22 thành **L1** hoặc **L2** tùy theo lịch bạn học
 2.  Sửa biến **ENG_CLASS** theo như lớp học tương ứng của bạn
 3.  Sửa các giá trị trong **SCI_CLASS** theo như các class và subclass của bạn
 4.  Mở CMD trong thư mục hiện tại, sau đó chạy lệnh `python calendar_filter.py`
